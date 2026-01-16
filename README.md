@@ -138,6 +138,12 @@ PORT=3000
 NODE_ENV=development
 ```
 
+**⚠️ IMPORTANTE - Seguridad:**
+- **NO subas el archivo `.env` a GitHub** - Contiene credenciales sensibles
+- Copia `.env.example` a `.env` para desarrollo local
+- El archivo `.env` está en `.gitignore` y no será trackeado por Git
+- En producción (Render.com), configura las variables de entorno desde el dashboard
+
 ### Almacenamiento
 - **Archivo JSON** (por defecto): Perfectamente funcional para desarrollo/pruebas
 - **MongoDB**: Ideal para producción
