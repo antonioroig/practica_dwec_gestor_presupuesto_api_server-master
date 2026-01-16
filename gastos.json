@@ -1,0 +1,66 @@
+[
+  {
+    "usuario": "juan",
+    "gastoId": "550e8400-e29b-41d4-a716-446655440001",
+    "descripcion": "Café en la cafetería",
+    "valor": 3.50,
+    "etiquetas": ["café", "desayuno"],
+    "fecha": "2025-01-15"
+  },
+  {
+    "usuario": "juan",
+    "gastoId": "550e8400-e29b-41d4-a716-446655440002",
+    "descripcion": "Gasolina",
+    "valor": 45.00,
+    "etiquetas": ["coche", "combustible"],
+    "fecha": "2025-01-14"
+  },
+  {
+    "usuario": "juan",
+    "gastoId": "550e8400-e29b-41d4-a716-446655440003",
+    "descripcion": "Entrada cine",
+    "valor": 12.50,
+    "etiquetas": ["cine", "películas"],
+    "fecha": "2025-01-13"
+  },
+  {
+    "usuario": "juan",
+    "gastoId": "550e8400-e29b-41d4-a716-446655440004",
+    "descripcion": "Farmacia - Medicinas",
+    "valor": 28.30,
+    "etiquetas": ["medicina", "farmacia"],
+    "fecha": "2025-01-12"
+  },
+  {
+    "usuario": "juan",
+    "gastoId": "550e8400-e29b-41d4-a716-446655440005",
+    "descripcion": "Comida en restaurante",
+    "valor": 25.80,
+    "etiquetas": ["restaurante", "cena"],
+    "fecha": "2025-01-11"
+  },
+  {
+    "usuario": "juan",
+    "gastoId": "550e8400-e29b-41d4-a716-446655440006",
+    "descripcion": "Pago rent mes",
+    "valor": 800.00,
+    "etiquetas": ["vivienda", "alquiler"],
+    "fecha": "2025-01-10"
+  },
+  {
+    "usuario": "maria",
+    "gastoId": "550e8400-e29b-41d4-a716-446655440007",
+    "descripcion": "Compra ropa",
+    "valor": 65.00,
+    "etiquetas": ["ropa", "compras"],
+    "fecha": "2025-01-15"
+  },
+  {
+    "usuario": "maria",
+    "gastoId": "550e8400-e29b-41d4-a716-446655440008",
+    "descripcion": "Uber a casa",
+    "valor": 18.50,
+    "etiquetas": ["taxi", "transporte"],
+    "fecha": "2025-01-14"
+  }
+]
