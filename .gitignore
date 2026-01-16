@@ -1,2 +1,10 @@
 claudia.json
 node_modules
+.env
+.env.local
+.env*.local
+*.pem
+*.key
+*.cert
+.DS_Store
+gastos.json
