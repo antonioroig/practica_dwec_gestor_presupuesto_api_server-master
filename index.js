@@ -8,6 +8,9 @@ var api = new ApiBuilder(),
 
 const tableName = process.env.TABLE_NAME;
 
+// Configurar CORS
+api.corsOrigins(['*']);
+
 function mostrarGastos(usuario, gastoId) {
 
     var condExp = (gastoId == undefined) ? 'usuario = :usuario' : 'usuario = :usuario and gastoId = :gastoId';
